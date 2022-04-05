@@ -1,0 +1,31 @@
+id: P01F21F5A
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1803
+  instance_id: http://purl.bdrc.io/resource/IE1KG1803
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྫོགས་པ་ཆེན་པོ་ཚིག་དོན་བཅུ་གཅིག་པ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - da yuan man ci yi si yi jie
+  author: http://purl.bdrc.io/resource/P633
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    adc3fa886dff455fb93f80595dbc62d9:
+      title: པོད ༡་རྫོགས་པ་ཆེན་པོ་ཚིག་དོན་བཅུ་གཅིག་པ
+      volume_number: 1
+      base_file: UT1KG1803_I1KG1868_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2D9B0636B7366081
+      image_group: I1KG1868
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG1803
+  - http://purl.bdrc.io/resource/MW1KG1803
+  ocr_software: Namsel
+created_at: '2021-12-24T17:16:45.452778'
+last_modified_at: '2021-12-24T17:16:45.452786'
